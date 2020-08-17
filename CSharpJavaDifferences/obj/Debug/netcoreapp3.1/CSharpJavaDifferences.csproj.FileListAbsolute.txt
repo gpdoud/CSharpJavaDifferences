@@ -1,0 +1,11 @@
+C:\repos\CSharpJavaDifferences\CSharpJavaDifferences\bin\Debug\netcoreapp3.1\CSharpJavaDifferences.exe
+C:\repos\CSharpJavaDifferences\CSharpJavaDifferences\bin\Debug\netcoreapp3.1\CSharpJavaDifferences.deps.json
+C:\repos\CSharpJavaDifferences\CSharpJavaDifferences\bin\Debug\netcoreapp3.1\CSharpJavaDifferences.runtimeconfig.json
+C:\repos\CSharpJavaDifferences\CSharpJavaDifferences\bin\Debug\netcoreapp3.1\CSharpJavaDifferences.runtimeconfig.dev.json
+C:\repos\CSharpJavaDifferences\CSharpJavaDifferences\bin\Debug\netcoreapp3.1\CSharpJavaDifferences.dll
+C:\repos\CSharpJavaDifferences\CSharpJavaDifferences\bin\Debug\netcoreapp3.1\CSharpJavaDifferences.pdb
+C:\repos\CSharpJavaDifferences\CSharpJavaDifferences\obj\Debug\netcoreapp3.1\CSharpJavaDifferences.csprojAssemblyReference.cache
+C:\repos\CSharpJavaDifferences\CSharpJavaDifferences\obj\Debug\netcoreapp3.1\CSharpJavaDifferences.AssemblyInfoInputs.cache
+C:\repos\CSharpJavaDifferences\CSharpJavaDifferences\obj\Debug\netcoreapp3.1\CSharpJavaDifferences.AssemblyInfo.cs
+C:\repos\CSharpJavaDifferences\CSharpJavaDifferences\obj\Debug\netcoreapp3.1\CSharpJavaDifferences.dll
+C:\repos\CSharpJavaDifferences\CSharpJavaDifferences\obj\Debug\netcoreapp3.1\CSharpJavaDifferences.pdb
